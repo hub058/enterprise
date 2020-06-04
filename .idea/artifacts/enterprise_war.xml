@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="enterprise:war">
+    <output-path>E:/apache-tomcat-7.0.52/webapps/enterprise</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>enterprise</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="enterprise.war">
+      <element id="artifact" artifact-name="enterprise:war exploded" />
+    </root>
+  </artifact>
+</component>
