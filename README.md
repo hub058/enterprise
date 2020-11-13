@@ -28,26 +28,13 @@
 * 使用tomcat启动
 
 * 前端地址：http://localhost:8080/enterprise
+  
 
 * 后端地址：http://localhost:8080/enterprise/manage/user/login
+  
 
 # 系统预览
 
-## 首页
-![首页](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/home.png)
-## 服务
-![服务](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/service.png)
-## 新闻
-![新闻](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/article.png)
-## 产品
-![团队](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/team.png)
-## 招聘
-![招聘](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/job.png)
-## 联系
-![联系](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/contact.png)
+在线演示地址：http://www.ipicbook.com:8080/
 
-## 后端首页
-![后端首页](https://github.com/hub058/enterprise/blob/master/src/main/webapp/attached/image/back.png)
-
-
-
+在线演示地址：http://www.ipicbook.com:8080/manage/user/login
