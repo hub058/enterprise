@@ -1,4 +1,5 @@
 对本系统感兴趣欢迎联络购买，最新完整版上门搭建。 联络邮箱QQ：`877058128@qq.com` 
+2020年11月添加商品模块和国际化版本，适合外贸使用。如有需要请联系作者。
 
 # enterprise 企业门户网站
 
@@ -28,13 +29,16 @@
 * 使用tomcat启动
 
 * 前端地址：http://localhost:8080/enterprise
-  
 
 * 后端地址：http://localhost:8080/enterprise/manage/user/login
   
 
-# 系统预览
+# 在线预览
 
 在线演示地址：http://www.ipicbook.com:8080/
 
 在线演示地址：http://www.ipicbook.com:8080/manage/user/login
+
+# 国际化版本在线预览
+
+在线演示地址：http://www.ipicbook.com:8090/enterprise
